@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayraj185&show_icons=true&locale=en" alt="jayraj185" /></p>
 
 <p align="center">
-  <img height="150" width="150" src="https://user-images.githubusercontent.com/118955280/227423004-14a6d404-9de6-4dcf-8c51-3e031948c62d.jpg">
+  <img height="100" width="100" src="https://user-images.githubusercontent.com/118955280/227423004-14a6d404-9de6-4dcf-8c51-3e031948c62d.jpg">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayraj185&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://user-images.githubusercontent.com/118955280/227423341-8cfa81db-1711-4198-bde7-91a1e02ff8e5.png">
+  <img height="100" width="100" src="https://user-images.githubusercontent.com/118955280/227423341-8cfa81db-1711-4198-bde7-91a1e02ff8e5.png">
 </p>
